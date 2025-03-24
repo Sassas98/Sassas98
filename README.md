@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sviluppatore software enterptise<br>Laureato ad Unicam in Informatica a Luglio 2024<br>Studente magistrale in Intelligenza Artificiale
+Sviluppatore di Software Enterprise<br>Laureato ad Unicam in Informatica a Luglio 2024<br>Studente magistrale in Intelligenza Artificiale
 
 
 ## 🌐 Socials:
